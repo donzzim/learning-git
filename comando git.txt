@@ -19,3 +19,9 @@ git add .
 git commit -m "Mensagem explicativa"
 
 git push
+
+----------------------------------------------------------------------------------------------------
+
+git log
+git log --oneline
+// project history versions
