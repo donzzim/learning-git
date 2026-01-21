@@ -25,3 +25,13 @@ git push
 git log
 git log --oneline
 // project history versions
+
+----------------------------------------------------------------------------------------------------
+
+git reset
+// remove all files from stage
+
+----------------------------------------------------------------------------------------------------
+
+git add filename
+// move file to stage
