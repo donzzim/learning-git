@@ -35,3 +35,8 @@ git reset
 
 git add filename
 // move file to stage
+
+----------------------------------------------------------------------------------------------------
+
+git diff 
+// show file's content
