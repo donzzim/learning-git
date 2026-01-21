@@ -40,3 +40,7 @@ git add filename
 
 git diff 
 // show file's content
+
+----------------------------------------------------------------------------------------------------
+
+git checkout commitId "f853f765004ff01809e4672daeec11d9238e20a0" -> id example
